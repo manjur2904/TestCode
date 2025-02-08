@@ -7,4 +7,5 @@ int main()
     cout<<"Version 3\n"; 
     cout<<"Version 4\n"; 
     cout<<"Version 5\n"; 
+    cout<<"Version 6\n"; 
 }
